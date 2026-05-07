@@ -14,7 +14,7 @@ A Retrieval-Augmented Generation (RAG) system that processes multi-turn conversa
 ├── query.py           # Retrieval + answer generation
 ├── chatbot.py         # CLI chatbot interface
 ├── app.py             # Gradio web interface (hosted on HuggingFace Spaces)
-├── messages.pkl       # Cached parsed + embedded messages
+├── messages.pkl       # Cached parsed + embedded messages (couldn't upload due to the big size)
 ├── breakpoints.pkl    # Cached topic change indices
 ├── summaries.pkl      # Cached topic summaries
 ├── personas.pkl       # Cached persona data
