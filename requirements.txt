@@ -1,0 +1,6 @@
+sentence-transformers
+chromadb
+groq
+scikit-learn
+gradio
+pandas
