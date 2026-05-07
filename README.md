@@ -168,6 +168,8 @@ At query time, personas from all conversations are aggregated (deduplicated) int
 | Checkpoint every 100 summaries | Safe resumption if Groq rate limits interrupt the pipeline |
 
 ---
+## Video Link
+https://www.loom.com/share/3ed676c975f64f819d770caa95e33899
 
 ## Limitations & Future Improvements
 
