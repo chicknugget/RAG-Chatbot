@@ -1,5 +1,6 @@
 # Conversation RAG Chatbot
 https://huggingface.co/spaces/chicknugget/conversation-rag-chatbot
+
 A Retrieval-Augmented Generation (RAG) system that processes multi-turn conversations, detects topic changes, extracts user personas, and answers questions about users via a chatbot interface.
 
 ---
