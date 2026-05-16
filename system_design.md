@@ -4,6 +4,8 @@
 
 The system is split into two layers: an **on-device layer** for fast, private, offline access and a **cloud layer** for persistence and cross-device sync.
 
+![](sync_architecture_diagram.svg)
+
 ---
 
 ## On-Device Storage
